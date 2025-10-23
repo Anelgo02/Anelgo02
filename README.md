@@ -38,16 +38,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anelgo02&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
+  <img width="319" src="https://github-readme-stats.vercel.app/api?username=Anelgo02&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelgo02&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anelgo02&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anelgo02&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
